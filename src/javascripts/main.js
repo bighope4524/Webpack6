@@ -1,6 +1,3 @@
-import my from "./my.js";
+import "./reactApp.jsx";
+
 import "../stylesheets/main.scss";
-
-console.log("webpack");
-
-my();
